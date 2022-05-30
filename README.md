@@ -1,0 +1,2 @@
+# zuridjango
+Zuri Django task
